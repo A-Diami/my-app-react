@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "name": "Bah",
+      "username": "Diamila",
+      "email": "bah@isi.sn",
+      "phone": "333-333-333",
+      "website": "diamilaCoder",
+      "id": 11
+    },
+    {
+      "name": "Diallo",
+      "username": "awa",
+      "email": "diawa13@gmail.com",
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org",
+      "id": 12
+    }
+  ]
+}
